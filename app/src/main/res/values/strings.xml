@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comparador</string>
+    <string name="function">Comparar</string>
+    <string name="texto_1">Texto 1</string>
+    <string name="texto_2">Texto 2</string>
+    <string name="resultado">Resultado</string>
+</resources>
